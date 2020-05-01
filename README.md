@@ -1,4 +1,4 @@
-Dumpling Burner 2040 MK1
+Dumpling Burner MK1
 
 The Dumling Burner is a Bear i3 Style mini Printer 
 
